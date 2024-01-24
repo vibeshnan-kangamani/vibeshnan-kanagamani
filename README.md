@@ -45,11 +45,11 @@
 <br>
 
 # Top Langs Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibeshnan-kangamani&show_icons=true&locale=en&layout=compact" alt="vibeshnan-kangamani" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibeshnan-kangamani&show_icons=true&locale=en&layout=compact" alt="vibeshnan-kangamani" /></p>
 
 <br>
 
 # Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibeshnan-kangamani&show_icons=true&locale=en" alt="vibeshnan-kangamani" /></p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vibeshnan-kangamani&show_icons=true&locale=en" alt="vibeshnan-kangamani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibeshnan-kangamani&" alt="vibeshnan-kanagamani" /></p>
